@@ -6,3 +6,10 @@ header {
     color: white;
 }
 
+header {
+    text-align: center;
+}
+
+.twitterusername {
+    text-align: center;
+}
